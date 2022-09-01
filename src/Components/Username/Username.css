@@ -1,0 +1,36 @@
+.form__label{
+    width: 100%;
+}
+
+.form_input{
+    width: 100%;
+}
+
+.single_row{
+    width:100%;
+    font-size:12px;
+    clear: both;
+    margin-left:6px;
+}
+
+.single_column{
+    width:50%;
+    float:left
+
+}
+
+.single_column input{
+    width:90%
+}
+.username{
+    font-size:12px;
+    /* margin-right : 20px;
+    margin-left:20px; */
+}
+
+.star{
+    color:red;
+    margin-left:1px;
+    margin-top:10px
+    
+}

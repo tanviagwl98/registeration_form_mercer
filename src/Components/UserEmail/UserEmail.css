@@ -1,0 +1,30 @@
+.form__label{
+    width: 100%;
+}
+
+.email{
+    margin:4px;
+    font-size:12px;
+    width:97.5%;
+    margin-bottom:-1px 
+      
+}
+
+.emailInput{
+    border-color:0.5px solid lightgray;
+    width:97.5%;
+
+}
+
+.star{
+    color:red;
+    margin-left:4px;
+    margin-top:10px
+    
+}
+
+
+.iconInput{
+    margin-left:-20px;
+    color:gray
+}
